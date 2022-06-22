@@ -13,3 +13,6 @@ Hoy e el CEO de Platzi.
 ahora es el checkout que estoy utilizando 
 
 este es un cambio con el nuevo archivo
+
+
+cambios head
